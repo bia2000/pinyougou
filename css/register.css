@@ -1,0 +1,72 @@
+header {
+  height: 84px;
+  border-bottom: 2px solid #c81523;
+}
+.registerarea {
+  height: 522px;
+  margin-top: 20px;
+  border: 1px solid #ccc;
+}
+.registerarea h3 {
+  height: 42px;
+  line-height: 42px;
+  font-size: 18px;
+  padding: 0 18px;
+  font-weight: 400;
+  border-bottom: 1px solid #ccc;
+  background-color: #ececec;
+}
+.registerarea h3 .login {
+  float: right;
+  font-size: 14px;
+}
+.registerarea .reg_form {
+  width: 600px;
+  margin: 50px auto 0;
+}
+.registerarea .reg_form label {
+  display: block;
+  margin: 15px auto;
+}
+.registerarea .reg_form label span {
+  display: inline-block;
+  width: 88px;
+  text-align: right;
+}
+.registerarea .reg_form label .safe {
+  padding-left: 170px;
+}
+.registerarea .reg_form label .safe em {
+  margin: 1px;
+  padding: 0 12px;
+  background-color: #bfa;
+}
+.registerarea .reg_form label input {
+  margin-left: 15px;
+  width: 242px;
+  height: 37px;
+  border: 1px solid #ccc;
+}
+.registerarea .reg_form .error-msg {
+  display: inline-block;
+  color: #c81523;
+}
+.registerarea .reg_form .agree {
+  margin-top: 30px;
+  margin-left: 100px;
+}
+.registerarea .reg_form .agree input {
+  vertical-align: middle;
+}
+.registerarea .reg_form .agree a {
+  color: #1ba1e6;
+}
+.registerarea .reg_form .btn input {
+  width: 200px;
+  height: 34px;
+  margin: 40px 0 0 100px;
+  font-size: 14px;
+  background-color: #c81523;
+  color: #fff;
+}
+/*# sourceMappingURL=./register.css.map */
